@@ -1,6 +1,10 @@
 <a href="https://drive.google.com/file/d/1IS0N-dxnh3QQZfbr3SyFvrlJla60lXUa/view?">Cross Ledger architecture</a>
 
 
+<a href="https://github.com/jpmorganchase/quorum/wiki/Transaction-Processing#private-transaction-process-flow">![Quorum privacy architecture](https://github.com/jpmorganchase/quorum-docs/raw/master/images/QuorumTransactionProcessing.JPG)</a>
+
+
+
 
 1. Sender constructs an ILP Prepare packet with the receiver's destination account, the agreed-upon condition, and an amount and expiry of their choice. The sender may include additional data, the formatting of which is determined by the higher-level protocol.
 
