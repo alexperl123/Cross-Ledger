@@ -1,7 +1,7 @@
 # Cross-Ledger 
 
 <a href="https://drive.google.com/file/d/1IS0N-dxnh3QQZfbr3SyFvrlJla60lXUa/view?" target="_blank">Cross Ledger architecture</a>
-(Please Refer Above link for Cross ledger Architecture Diagram)
+(Please Refer link for Cross ledger Architecture Diagram)
 
 
 1. Sender constructs an ILP Prepare packet with the receiver's destination account, the agreed-upon condition, and an amount and expiry of their choice. The sender may include additional data, the formatting of which is determined by the higher-level protocol.
