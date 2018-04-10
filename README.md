@@ -1,6 +1,6 @@
-# Cross-Ledger
+# Cross-Ledger Please Refer Above link for Cross ledger Architecture Diagram
 
-<a href="https://drive.google.com/file/d/1IS0N-dxnh3QQZfbr3SyFvrlJla60lXUa/view?">Cross Ledger architecture</a>
+<a href="https://drive.google.com/file/d/1IS0N-dxnh3QQZfbr3SyFvrlJla60lXUa/view?" target="_blank">Cross Ledger architecture</a>
 
 
 
